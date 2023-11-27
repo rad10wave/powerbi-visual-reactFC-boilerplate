@@ -1,4 +1,4 @@
-# React Circle Card Visual Project
+# Power BI Custom Visual using React Functional Component
 
 This project provides a bolierplate code to create a Power BI Custom Visual using React Functional Component.
 While Microsoft has extensive documentation on creating a [Power BI Visual with React](https://learn.microsoft.com/en-us/power-bi/developer/visuals/create-react-visual), but it's using the Class Component.
