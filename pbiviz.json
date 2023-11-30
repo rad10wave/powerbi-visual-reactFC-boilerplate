@@ -1,1 +1,20 @@
-{"visual":{"name":"reactCircleCard","displayName":"ReactCircleCard","guid":"reactCircleCardAF291D1FB89F48D9B45C359E65D09552","visualClassName":"Visual","version":"1.0.0.0","description":"","supportUrl":"","gitHubUrl":""},"apiVersion":"5.1.0","author":{"name":"","email":""},"assets":{"icon":"assets/icon.png"},"externalJS":null,"style":"style/visual.less","capabilities":"capabilities.json","dependencies":null,"stringResources":[]}
+{
+  "visual": {
+    "name": "reactCircleCard",
+    "displayName": "ReactCircleCard",
+    "guid": "reactCircleCardAF291D1FB89F48D9B45C359E65D09552",
+    "visualClassName": "Visual",
+    "version": "1.0.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "5.1.0",
+  "author": { "name": "", "email": "" },
+  "assets": { "icon": "assets/icon.png" },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
